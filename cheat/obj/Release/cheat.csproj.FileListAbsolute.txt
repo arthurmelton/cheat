@@ -1,0 +1,12 @@
+D:\Projects\cheat\cheat\bin\Release\cheat.exe.config
+D:\Projects\cheat\cheat\bin\Release\cheat.exe
+D:\Projects\cheat\cheat\bin\Release\cheat.pdb
+D:\Projects\cheat\cheat\bin\Release\Memory.dll
+D:\Projects\cheat\cheat\obj\Release\cheat.csprojAssemblyReference.cache
+D:\Projects\cheat\cheat\obj\Release\cheat.Form1.resources
+D:\Projects\cheat\cheat\obj\Release\cheat.Properties.Resources.resources
+D:\Projects\cheat\cheat\obj\Release\cheat.csproj.GenerateResource.cache
+D:\Projects\cheat\cheat\obj\Release\cheat.csproj.CoreCompileInputs.cache
+D:\Projects\cheat\cheat\obj\Release\cheat.csproj.CopyComplete
+D:\Projects\cheat\cheat\obj\Release\cheat.exe
+D:\Projects\cheat\cheat\obj\Release\cheat.pdb
